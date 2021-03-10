@@ -72,7 +72,7 @@ const RESOURCES = {
 "assets/assets/images/society5.jpg": "bb850414aa269f58e41704ca997216ef",
 "assets/assets/images/society6.jpg": "6effa1bbf2c62bd2a8a7c24cd6169e36",
 "assets/assets/images/society7.jpg": "b3b9123ec392a97f055cda7db8d29cc9",
-"assets/assets/images/Tanha.jpg": "996cf8f0a7d6685e2e637d2329bd5410",
+"assets/assets/images/Tanha.jpg": "2601e31e732e2ca3053e1d7e7e0a4c88",
 "assets/assets/images/Tanha.png": "bf4ff1fa91abb5a0600ce8b09c6cf668",
 "assets/assets/images/task.jpg": "6dca66d9a7d3b8eea0523a058a8e21b5",
 "assets/assets/images/task.mp4": "717dc84b193cddfa84d0d034f12ad390",
@@ -94,9 +94,9 @@ const RESOURCES = {
 "icons/favicon-16x16.png": "9e46618cffa3147a00298cc48b5014fc",
 "icons/favicon-32x32.png": "365b6705a3af2e5c73faa90a3ed71dbd",
 "icons/mstile-150x150.png": "aa7af6252adf460e21ba645d13c4c36d",
-"index.html": "9d601e10bf62d8a84f9c2b8ea623188f",
-"/": "9d601e10bf62d8a84f9c2b8ea623188f",
-"main.dart.js": "b2d1b3cac33abb661900844b9fe70db8",
+"index.html": "33c38e80285b0bcb72b6c1ebfcdd476f",
+"/": "33c38e80285b0bcb72b6c1ebfcdd476f",
+"main.dart.js": "8c964a6548d62cb9ab9d39ea9f5dcc87",
 "manifest.json": "dd6ef2a5451a2f78b5dc39f8650ddc32",
 "version.json": "e856fd580f571976b9bc42fc3dc1bc1a"
 };
